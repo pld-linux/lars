@@ -1,7 +1,7 @@
 Summary:	Tool for making audio CD from mp3s
 Summary(pl):	Narzêdzie do tworzenia p³yt audio z plików mp3
 Name:		lars
-Version:	0.90
+Version:	0.98
 Release:	1
 License:	GPL
 Group:		Applications/File
