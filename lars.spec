@@ -16,7 +16,7 @@ BuildRequires:	gtk+-devel
 Lars helps you mass-produce audio CDs from MP3s.
 
 %description -l pl
-Lars pomoga w tworzeniu p³yt audio CD z plików mp3.
+Lars pomaga w tworzeniu p³yt audio CD z plików mp3.
 
 %prep
 %setup -q
