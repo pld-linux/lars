@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/File
 Source0:	http://65.108.58.129/programs/%{name}-%{version}.tar.gz
+# Source0-md5:	57ba20949c8ecf98154e059d3384f3b5
 URL:		http://lars.naken.cc/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildRequires:	gtk+-devel
