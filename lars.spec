@@ -1,5 +1,5 @@
-Summary:	Tool for making audio CD from mp3s
-Summary(pl):	Narz璠zie do tworzenia p造t audio z plik闚 mp3
+Summary:	Tool for making audio CD from MP3s
+Summary(pl):	Narz璠zie do tworzenia p造t audio z plik闚 MP3
 Name:		lars
 Version:	0.98
 Release:	1
@@ -16,7 +16,7 @@ BuildRequires:	gtk+-devel
 Lars helps you mass-produce audio CDs from MP3s.
 
 %description -l pl
-Lars pomaga w tworzeniu p造t audio CD z plik闚 mp3.
+Lars pomaga w tworzeniu p造t audio CD z plik闚 MP3.
 
 %prep
 %setup -q
