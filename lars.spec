@@ -10,8 +10,6 @@ URL:		http://lars.naken.cc/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildRequires:	gtk+-devel
 
-%define         _prefix         /usr/X11R6
-%define         _mandir         %{_prefix}/man
 
 %description
 Lars helps you mass-produce audio CDs from MP3s.
