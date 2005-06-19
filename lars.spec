@@ -8,8 +8,8 @@ Group:		Applications/File
 Source0:	http://65.108.58.129/programs/%{name}-%{version}.tar.gz
 # Source0-md5:	57ba20949c8ecf98154e059d3384f3b5
 URL:		http://lars.naken.cc/
-BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 BuildRequires:	gtk+-devel
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 
 %description
@@ -22,7 +22,8 @@ Lars pomaga w tworzeniu p³yt audio CD z plików MP3.
 %setup -q
 
 %build
-%{__make} CC=%{__cc}
+%{__make} \
+	CC="%{__cc}"
 
 %install
 rm -rf $RPM_BUILD_ROOT
