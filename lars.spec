@@ -1,5 +1,5 @@
 Summary:	Tool for making audio CD from MP3s
-Summary(pl):	Narzêdzie do tworzenia p³yt audio z plików MP3
+Summary(pl.UTF-8):   NarzÄ™dzie do tworzenia pÅ‚yt audio z plikÃ³w MP3
 Name:		lars
 Version:	0.98
 Release:	1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Lars helps you mass-produce audio CDs from MP3s.
 
-%description -l pl
-Lars pomaga w tworzeniu p³yt audio CD z plików MP3.
+%description -l pl.UTF-8
+Lars pomaga w tworzeniu pÅ‚yt audio CD z plikÃ³w MP3.
 
 %prep
 %setup -q
