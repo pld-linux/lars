@@ -1,5 +1,5 @@
 Summary:	Tool for making audio CD from MP3s
-Summary(pl.UTF-8):   Narzędzie do tworzenia płyt audio z plików MP3
+Summary(pl.UTF-8):	Narzędzie do tworzenia płyt audio z plików MP3
 Name:		lars
 Version:	0.98
 Release:	1
